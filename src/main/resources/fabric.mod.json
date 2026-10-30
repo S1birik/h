@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "wersize",
+  "version": "${version}",
+  "name": "Wersize Pack Editor",
+  "description": "In-game editor that recolours PvP textures (crystals, totems, fire, hearts, crosshair, glint...) and applies them as a resource pack.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.wersize.WersizeClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

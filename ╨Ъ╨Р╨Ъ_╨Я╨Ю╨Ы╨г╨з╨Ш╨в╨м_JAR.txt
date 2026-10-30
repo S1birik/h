@@ -1,0 +1,8 @@
+1. Зайдите на github.com, зарегистрируйтесь (бесплатно).
+2. Нажмите "+" вверху справа -> New repository -> любое имя -> Create repository.
+3. Нажмите "uploading an existing file".
+4. Перетащите в окно ВСЁ содержимое этой папки (build.gradle, gradle.properties, settings.gradle, src, .github ...).
+   Если .github не видна: включите в проводнике "Показать скрытые файлы".
+5. Внизу нажмите Commit changes.
+6. Подождите 3-5 минут. На главной странице репозитория справа появится раздел Releases.
+7. Откройте Release и скачайте wersize-1.0.0.jar.
